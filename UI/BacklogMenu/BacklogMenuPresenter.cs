@@ -1,7 +1,7 @@
 ﻿using System;
 using UI.BaseUI;
 
-namespace UI.HUD.BacklogMenu
+namespace UI.BacklogMenu
 {
     public class BacklogMenuPresenter : MenuPresenter<BacklogMenuModel, BacklogMenuView>
     {

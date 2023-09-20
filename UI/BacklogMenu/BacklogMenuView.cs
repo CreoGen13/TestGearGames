@@ -9,7 +9,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using Zenject;
 
-namespace UI.HUD.BacklogMenu
+namespace UI.BacklogMenu
 {
     public class BacklogMenuView : MenuView<BacklogMenuPresenter>
     {

@@ -1,7 +1,7 @@
 ﻿using UI.BaseUI;
 using UniRx;
 
-namespace UI.HUD.BacklogMenu
+namespace UI.BacklogMenu
 {
     public class BacklogMenuModel : BaseMenuModel<BacklogMenuModel>
     {
